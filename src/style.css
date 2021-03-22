@@ -1,0 +1,12 @@
+.center{
+    margin-top: 100px;
+}
+.total{
+    text-align: right;
+    margin-left:300px ;
+}
+.scrollb{
+    height: 600px;
+    overflow-y:scroll;
+  overflow-x: hidden;
+}
